@@ -1,0 +1,250 @@
+
+
+
+body {
+	width:680px;
+	margin:auto;
+	background-color: skyblue;
+}
+
+#container:after {
+   content: ".";
+   visibility: hidden;
+   display: block;
+   height: 0;
+   clear: both;
+   overflow: hidden;
+   }
+
+	#your {
+		background-color:;
+		border-style:solid 1px;
+		border-color:black;
+		clear: both;
+		float: left;
+		line-height: 33px;
+		text-align:justify;
+    -moz-text-align-last: justify;
+    text-align-last: justify;
+	text-justify:distribute;
+		margin-right:20px;
+		padding-top: 35px;
+		width: 327px;
+}
+
+
+#life {
+	background-color:;
+	border-style:solid;
+	border-color:black;
+	border-width: 1px;
+	float:left;
+	clear:right;
+	text-align:justify;
+-moz-text-align-last: justify;
+text-align-last: justify;
+text-justify:distribute;
+	width: 327px;
+}
+
+
+#love{
+	width:680px;
+	float:left;
+	clear: both;
+	background-color:;
+	border-style:solid;
+	border-color: black;
+	border-width: 1px;
+	margin-right:5px;
+	margin-top:-15px;
+	margin-left:;
+	text-align:justify;
+-moz-text-align-last: justify;
+text-align-last: justify;
+text-justify:distribute;
+	line-height: 35px;
+}
+
+#simple {
+	width:328px;
+	background-color:;
+	border-style: solid;
+	border-color:solid;
+	border-width:1px;
+	float: left;
+	clear:both;
+	text-align:justify;
+-moz-text-align-last: justify;
+text-align-last: justify;
+text-justify:distribute;
+	margin-right:20px;
+	line-height: 35px;
+}
+
+#beautiful {
+	width: 328px;
+	border-style:solid ;
+	border-color: black;
+	border-width: 1px;
+	background-color:;
+	float: left;
+	clear: right;
+	text-align:justify;
+-moz-text-align-last: justify;
+text-align-last: justify;
+text-justify:distribute;
+	line-height: 25px;
+}
+
+#dream{
+	width:680px;
+	float:left;
+	clear: both;
+	visibility: visible;
+	background-color:;
+	border-style:solid;
+	border-color:blacK;
+	border-width:1px;
+	margin-right:5px;
+	text-align:justify;
+-moz-text-align-last: justify;
+text-align-last: justify;
+text-justify:distribute;
+}
+#travel{
+	float:left;
+	clear: both;
+	width:328px;
+	margin-right:20px;
+	text-align:justify;
+-moz-text-align-last: justify;
+text-align-last: justify;
+text-justify:distribute;
+width:328px;
+}
+
+#find{
+	clear:right;
+	float:left;
+	text-align:justify;
+-moz-text-align-last: justify;
+text-align-last: justify;
+text-justify:distribute;
+	width:328px;
+}
+
+#create{
+	width:680px;
+	float:left;
+	clear: both;
+	visibility: visible;
+	background-color:;
+	border-style:solid;
+	border-color:blacK;
+	border-width:1px;
+	margin-right:5px;
+	text-align:justify;
+	-moz-text-align-last: justify;
+	text-align-last: justify;
+	text-justify:distribute;
+	}
+
+#short{
+	float:left;
+	width:327px;
+	margin-right:20px;
+	line-height: 55px;
+	text-align:justify;
+-moz-text-align-last: justify;
+text-align-last: justify;
+text-justify:distribute;
+}
+
+#passion{
+	float:left;
+	clear: right;
+	width:327px;
+	line-height: 35px;
+	text-align:justify;
+-moz-text-align-last: justify;
+text-align-last: justify;
+text-justify:distribute;
+}
+
+.emphasis-1 {
+	font-family:'Slabo 27px', serif;
+	text-transform: uppercase;
+	font-size: 45px;
+	letter-spacing: .4px;
+
+}
+.emphasis-2 {
+	font-family: 'Arvo', serif;
+	text-transform: uppercase;
+	font-size: 135px;
+	margin-right:-35px;
+}
+
+.emphasis-3	{
+	font-family:'Slabo 27px', serif;
+	text-transform: uppercase;
+	font-size: 30px;
+
+}
+.emphasis-4 {
+	font-family:'Slabo 27px', serif;
+	text-transform: uppercase;
+	font-size:35px;
+
+}
+.emphasis-5 {
+	font-family:'Slabo 27px', serif;
+	text-transform: uppercase;
+	font-size:28px;
+}
+.emphasis-6 {
+	font-family:'Slabo 27px', serif;
+	text-transform: uppercase;
+	font-size:24px;
+
+}
+.emphasis-7 {
+	font-family:'Slabo 27px', serif;
+	text-transform: uppercase;
+	font-size: 40px;
+
+}
+.emphasis-8 {
+	font-family:'Slabo 27px', serif;
+	text-transform: uppercase;
+	font-size: 20px;
+}
+.emphasis-9{
+	font-family:'Slabo 27px', serif;
+	text-transform: uppercase;
+	font-size: 75px;
+
+}
+.emphasis-10{
+	font-family:'Slabo 27px', serif;
+	text-transform: uppercase;
+	font-size: 55px;
+	font-weignt:bold;
+}
+.emphasis-11{
+	letter-spacing: 16px;
+	word-spacing: 5px;
+	display: inline-block;
+	transform: scaleY(1.1);
+}
+.emphasis-12{
+	letter-spacing: 18px;
+	word-spacing: 5px;
+	display: inline-block;
+	transform: scaleY(1.2);
+	vertical-align:
+}
+.emphasis-often{
+	letter-spacing: 10px;
+}
